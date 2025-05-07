@@ -1,0 +1,2 @@
+--select emp_name as 名前, birthday as 誕生日 from employee;
+--select emp_name as 名前, sal as 給与, (sal * 3) :: int as ボーナス from employee;
